@@ -10,6 +10,8 @@ balazs.fekete@unh.edu
 
 *******************************************************************************/
 
+//*** A comment just for fun ****
+
 #include <stdio.h>
 #include <cm.h>
 #include <MF.h>
